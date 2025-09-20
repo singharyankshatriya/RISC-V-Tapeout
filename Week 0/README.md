@@ -5,7 +5,6 @@
 
 ## Tool Setup & Installation Guide
 ### System Requirements
-Ensure your system meets the following minimum requirements before proceeding with installation:
 
 - 8 GB RAM
 - 50 GB HDD
